@@ -57,10 +57,11 @@ The major function of a semi-automatic PCB stencil printer is to ensure precise,
 
 ## Bare Board:
 
+![jj](https://github.com/user-attachments/assets/2e5a762a-a4c1-4d9f-b1c4-e894908c86a4)
 
 ## Bare board with soldering Paste:
 
-
+![jjj](https://github.com/user-attachments/assets/96fe86af-a1da-47bf-bbdc-237e30314649)
 
 # Result:
-
+The semi-automatic stencil printer was successfully operated and its performance was evaluated under standard SMT assembly conditions. The machine produced accurate and consistent solder paste deposition across all test pads. Variations in paste height and alignment were minimal, indicating precise stencil-to-PCB registration. The semi-automatic control features improved repeatability compared to manual printing, resulting in uniform paste volume, reduced printing defects, and enhanced process reliability. Overall, the experiment confirms that the semi-automatic stencil printer is effective for achieving stable and high-quality solder paste deposition in SMT manufacturing.
